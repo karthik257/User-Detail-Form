@@ -1,0 +1,97 @@
+{
+  "posts": [
+    {
+      "ename": "Karthik",
+      "eage": "27",
+      "eaddress": "Bangalore",
+      "edepartment": "Tester",
+      "esalary": "25000",
+      "isMarried": "true",
+      "files": "C:\\fakepath\\smile.jpg",
+      "id": 3
+    },
+    {
+      "ename": "sharath",
+      "eage": "23",
+      "eaddress": "Mangalore",
+      "edepartment": "Developer",
+      "esalary": "50000",
+      "isMarried": "false",
+      "files": "C:\\fakepath\\smile.jpg",
+      "id": 4
+    },
+    {
+      "ename": "kalyan",
+      "eage": "30",
+      "eaddress": "thirthalli",
+      "edepartment": "Designer",
+      "esalary": "30000",
+      "isMarried": "true",
+      "id": 6
+    },
+    {
+      "ename": "Arun",
+      "eage": "50",
+      "eaddress": "Mumbai",
+      "edepartment": "Marketing",
+      "esalary": "10000",
+      "isMarried": "false",
+      "id": 7
+    },
+    {
+      "ename": "Amit",
+      "eage": "40",
+      "eaddress": "Delhi",
+      "edepartment": "Developer",
+      "esalary": "40000",
+      "isMarried": "true",
+      "id": 8
+    },
+    {
+      "ename": "Elena",
+      "eage": "27",
+      "eaddress": "Bulgaria",
+      "edepartment": "Tester",
+      "esalary": "45000",
+      "isMarried": "true",
+      "id": 10
+    },
+    {
+      "edepartment": "Tester",
+      "esalary": "10000",
+      "ename": "Kai",
+      "eage": "29",
+      "eaddress": "USA",
+      "isMarried": "true",
+      "id": 11
+    },
+    {
+      "ename": "Katherine Pierce",
+      "eage": "26",
+      "eaddress": "Italy",
+      "edepartment": "Tester",
+      "esalary": "55000",
+      "isMarried": "false",
+      "id": 12
+    },
+    {
+      "ename": "Stefan",
+      "eage": "33",
+      "edepartment": "Marketing",
+      "eaddress": "UK",
+      "esalary": "47000",
+      "isMarried": "true",
+      "id": 13
+    },
+    {
+      "ename": "Nitin",
+      "eage": "25",
+      "eaddress": "Bangalore",
+      "edepartment": "Designer",
+      "esalary": "35000",
+      "isMarried": "true",
+      "files": "C:\\fakepath\\smile.jpg",
+      "id": 14
+    }
+  ]
+}
